@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    // общие ресурсы
+    // ресурсы для UI
+    <string name = "company_name">ТРАНСПОРТНАЯ\n ИНФОРМАЦИОННАЯ СИСТЕМА</string>
+
+    //**********************************************************//
+    // ресурсы модуляя auth
+    <string name = "login">Логин</string>
+
+</resources>
